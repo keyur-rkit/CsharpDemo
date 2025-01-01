@@ -1,0 +1,6 @@
+[2024-12-28 17:33:33] ISSUED: ISBN: 2, Title: Harry Potter, Borrowed By: Keyur
+[2024-12-28 17:33:52] RETURNED: ISBN: 2, Title: Harry Potter
+[2024-12-28 20:49:48] ISSUED: ISBN: 1, Title: Atomic Habits, Borrowed By: Raj
+[2024-12-28 20:56:03] ISSUED: ISBN: 3, Title: One Piece, Borrowed By: Parth
+[2024-12-30 15:29:44] ISSUED: ISBN: 2, Title: Harry Potter, Borrowed By: keyur
+[2024-12-30 15:29:59] RETURNED: ISBN: 2, Title: Harry Potter
