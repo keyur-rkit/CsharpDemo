@@ -102,7 +102,7 @@ namespace LibraryManagement
     {
         #region Private Members
         private List<Book> _books;
-        private string _dataFile = @"C:\Users\Asus\source\repos\LibraryManagement\LibraryManagement\Data\books.csv";
+        private string _dataFile = @"F:\Keyur-417\Code\CsharpDemo\LibraryManagement\Data\books.csv";
         #endregion
 
         #region Constructors
@@ -239,7 +239,7 @@ namespace LibraryManagement
         /// <exception cref="IOException"></exception>
         private void LoadBooks()
         {
-            string errorPath = @"C:\Users\Asus\source\repos\LibraryManagement\LibraryManagement\Data\error.txt";
+            string errorPath = @"F:\Keyur-417\Code\CsharpDemo\LibraryManagement\Data\error.txt";
             try
             {
                 if (File.Exists(_dataFile))
@@ -302,7 +302,7 @@ namespace LibraryManagement
     /// </summary>
     public static class TransactionLogger
     {
-        private static string LogFile = @"C:\Users\Asus\source\repos\LibraryManagement\LibraryManagement\Data\transactions.txt";
+        private static string LogFile = @"F:\Keyur-417\Code\CsharpDemo\LibraryManagement\Data\transactions.txt";
 
         /// <summary>
         /// Log issue book data to file
